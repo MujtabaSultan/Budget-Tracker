@@ -1,0 +1,9 @@
+
+/* src/App.css */
+.completed {
+   color: red;
+}
+
+.not-completed {
+color:green
+}
